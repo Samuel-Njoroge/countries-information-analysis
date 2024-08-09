@@ -4,7 +4,7 @@ A simple analysis on countries in different parts of the world. The objective of
 ## Architecture
 ![countries_information](https://github.com/user-attachments/assets/ed9b01c0-4f97-41f6-8df4-4a62459cee70)
 
-## Skills 
+## Skills & Tools
 - API - Extracting data from an API `RestCountries`
 - SQL - Data manipulation with SQL.
  > Aggregate Functions
@@ -13,6 +13,8 @@ A simple analysis on countries in different parts of the world. The objective of
   > 
   > Common Table Expressions (CTEs)
 - Python & Pandas - Data cleaning and transformation.
+- PostgreSQL - Database
+- Tableau - Used in the Visualization process.
 
 ## Steps Taken
 1. Extracting data from the [Rest Countries API](https://restcountries.com/v3.1/all)
